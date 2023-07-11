@@ -23,8 +23,8 @@
 
 /* Start - styling slection page */
 ::selection{
-  color: var(--cl-white);
-  background: var(--cl-span-orange);
+  color: var(--cl-black);
+  background: var(--cl-orange);
 }
 /* End - styling slection page */
 
